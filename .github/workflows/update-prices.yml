@@ -1,0 +1,107 @@
+name: Update FPL price watch
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/15 23,0 * * *"
+      timezone: "Europe/Oslo"
+
+permissions:
+  contents: write
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and filter FPL price data
+        run: |
+          python - <<'PY'
+          import json
+          import urllib.request
+          from datetime import datetime, timezone
+
+          SOURCE_URL = "https://fpl-price-watch.enganfails.workers.dev"
+
+          request = urllib.request.Request(
+              SOURCE_URL,
+              headers={
+                  "User-Agent": "FPL-Price-Watch/1.0",
+                  "Accept": "application/json"
+              }
+          )
+
+          with urllib.request.urlopen(request, timeout=30) as response:
+              data = json.load(response)
+
+          risers = []
+          fallers = []
+
+          for player_id, p in data.items():
+              try:
+                  progress = float(p.get("progress", 0) or 0)
+                  tonight = float(p.get("progress_tonight", 0) or 0)
+                  per_hour = float(p.get("per_hour", 0) or 0)
+              except (TypeError, ValueError):
+                  continue
+
+              player = {
+                  "id": int(player_id),
+                  "name": p.get("name"),
+                  "team": p.get("team"),
+                  "position": p.get("type"),
+                  "price": p.get("cost"),
+                  "progress": round(progress * 100, 1),
+                  "predicted_tonight": round(tonight * 100, 1),
+                  "per_hour": round(per_hour * 100, 2)
+              }
+
+              if tonight >= 0.80:
+                  risers.append(player)
+
+              if tonight <= -0.80:
+                  fallers.append(player)
+
+          risers.sort(
+              key=lambda x: x["predicted_tonight"],
+              reverse=True
+          )
+
+          fallers.sort(
+              key=lambda x: x["predicted_tonight"]
+          )
+
+          output = {
+              "updated_at": datetime.now(timezone.utc).isoformat(),
+              "source": SOURCE_URL,
+              "threshold": "80%",
+              "risers": risers,
+              "fallers": fallers
+          }
+
+          with open("prices.json", "w", encoding="utf-8") as f:
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print(
+              f"{len(risers)} risers and "
+              f"{len(fallers)} fallers written to prices.json"
+          )
+          PY
+
+      - name: Commit updated prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add prices.json
+          git commit -m "Update FPL price predictions" || exit 0
+          git push
