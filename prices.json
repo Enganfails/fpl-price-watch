@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:26:21.515997+00:00",
+  "updated_at": "2026-09-24T22:39:30.223273+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -11,7 +11,7 @@
       "price": 4.6,
       "progress": 100.1,
       "predicted_tonight": 100.2,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 115,
@@ -21,7 +21,7 @@
       "price": 4.9,
       "progress": 96.4,
       "predicted_tonight": 96.5,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 249,
@@ -31,7 +31,7 @@
       "price": 5.6,
       "progress": 96.1,
       "predicted_tonight": 96.2,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 8,
@@ -51,7 +51,7 @@
       "price": 6.1,
       "progress": 87.3,
       "predicted_tonight": 87.4,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 12,
@@ -70,8 +70,8 @@
       "position": "MID",
       "price": 5.5,
       "progress": 80.1,
-      "predicted_tonight": 80.1,
-      "per_hour": 0.0
+      "predicted_tonight": 80.2,
+      "per_hour": 0.21
     }
   ],
   "fallers": [
@@ -82,8 +82,8 @@
       "position": "MID",
       "price": 5.4,
       "progress": -100.5,
-      "predicted_tonight": -100.5,
-      "per_hour": 0.0
+      "predicted_tonight": -100.6,
+      "per_hour": -0.21
     },
     {
       "id": 14,
@@ -93,7 +93,7 @@
       "price": 6.3,
       "progress": -99.5,
       "predicted_tonight": -99.6,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 595,
@@ -113,7 +113,7 @@
       "price": 4.9,
       "progress": -97.5,
       "predicted_tonight": -97.6,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 626,
@@ -123,7 +123,7 @@
       "price": 4.5,
       "progress": -97.0,
       "predicted_tonight": -97.1,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 531,
@@ -163,7 +163,7 @@
       "price": 4.9,
       "progress": -94.8,
       "predicted_tonight": -94.9,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 543,
@@ -211,9 +211,9 @@
       "team": "Arsenal",
       "position": "MID",
       "price": 5.8,
-      "progress": -93.1,
+      "progress": -93.2,
       "predicted_tonight": -93.2,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 34,
@@ -262,8 +262,8 @@
       "position": "MID",
       "price": 7.9,
       "progress": -91.1,
-      "predicted_tonight": -91.0,
-      "per_hour": 0.14
+      "predicted_tonight": -91.1,
+      "per_hour": 0.0
     },
     {
       "id": 180,
@@ -281,9 +281,9 @@
       "team": "Man City",
       "position": "DEF",
       "price": 5.3,
-      "progress": -89.6,
+      "progress": -89.7,
       "predicted_tonight": -89.7,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 419,
@@ -311,9 +311,9 @@
       "team": "Liverpool",
       "position": "GK",
       "price": 4.9,
-      "progress": -89.0,
+      "progress": -89.1,
       "predicted_tonight": -89.1,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 368,
@@ -323,7 +323,7 @@
       "price": 7.0,
       "progress": -88.9,
       "predicted_tonight": -89.0,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 381,
@@ -341,9 +341,9 @@
       "team": "Crystal Palace",
       "position": "GK",
       "price": 5.0,
-      "progress": -88.7,
+      "progress": -88.8,
       "predicted_tonight": -88.8,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 488,
@@ -412,8 +412,8 @@
       "position": "MID",
       "price": 4.5,
       "progress": -86.1,
-      "predicted_tonight": -86.2,
-      "per_hour": -0.14
+      "predicted_tonight": -86.1,
+      "per_hour": 0.0
     },
     {
       "id": 142,
@@ -423,7 +423,7 @@
       "price": 5.4,
       "progress": -85.1,
       "predicted_tonight": -85.2,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 587,
@@ -471,8 +471,8 @@
       "team": "Spurs",
       "position": "MID",
       "price": 6.5,
-      "progress": -82.3,
-      "predicted_tonight": -82.3,
+      "progress": -82.4,
+      "predicted_tonight": -82.4,
       "per_hour": 0.0
     },
     {
@@ -503,6 +503,16 @@
       "price": 5.0,
       "progress": -80.5,
       "predicted_tonight": -80.5,
+      "per_hour": 0.0
+    },
+    {
+      "id": 386,
+      "name": "Bettinelli",
+      "team": "Man City",
+      "position": "GK",
+      "price": 4.5,
+      "progress": -80.0,
+      "predicted_tonight": -80.0,
       "per_hour": 0.0
     }
   ]
