@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:38:45.041678+00:00",
+  "updated_at": "2026-09-26T22:52:12.082710+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -19,9 +19,9 @@
       "team": "Everton",
       "position": "DEF",
       "price": 6.1,
-      "progress": 93.0,
+      "progress": 93.1,
       "predicted_tonight": 93.1,
-      "per_hour": 0.21
+      "per_hour": 0.0
     },
     {
       "id": 8,
@@ -29,9 +29,9 @@
       "team": "Arsenal",
       "position": "DEF",
       "price": 5.8,
-      "progress": 89.4,
+      "progress": 89.5,
       "predicted_tonight": 89.5,
-      "per_hour": 0.21
+      "per_hour": 0.0
     },
     {
       "id": 12,
@@ -41,7 +41,7 @@
       "price": 9.5,
       "progress": 85.6,
       "predicted_tonight": 85.7,
-      "per_hour": 0.21
+      "per_hour": 0.43
     },
     {
       "id": 124,
@@ -101,8 +101,8 @@
       "team": "Hull City",
       "position": "MID",
       "price": 5.0,
-      "progress": -97.7,
-      "predicted_tonight": -97.7,
+      "progress": -97.9,
+      "predicted_tonight": -97.9,
       "per_hour": 0.0
     },
     {
@@ -132,8 +132,8 @@
       "position": "MID",
       "price": 5.8,
       "progress": -97.6,
-      "predicted_tonight": -97.5,
-      "per_hour": 0.21
+      "predicted_tonight": -97.6,
+      "per_hour": 0.0
     },
     {
       "id": 543,
@@ -161,8 +161,8 @@
       "team": "Aston Villa",
       "position": "DEF",
       "price": 4.5,
-      "progress": -96.2,
-      "predicted_tonight": -96.2,
+      "progress": -96.3,
+      "predicted_tonight": -96.3,
       "per_hour": 0.0
     },
     {
@@ -346,21 +346,21 @@
       "per_hour": 0.0
     },
     {
-      "id": 221,
-      "name": "Drakes-Thomas",
-      "team": "Crystal Palace",
-      "position": "MID",
-      "price": 4.5,
-      "progress": -88.8,
-      "predicted_tonight": -88.8,
-      "per_hour": 0.0
-    },
-    {
       "id": 550,
       "name": "Jocelin.T",
       "team": "Sunderland",
       "position": "MID",
       "price": 5.0,
+      "progress": -88.9,
+      "predicted_tonight": -88.9,
+      "per_hour": 0.0
+    },
+    {
+      "id": 221,
+      "name": "Drakes-Thomas",
+      "team": "Crystal Palace",
+      "position": "MID",
+      "price": 4.5,
       "progress": -88.8,
       "predicted_tonight": -88.8,
       "per_hour": 0.0
@@ -472,8 +472,8 @@
       "position": "MID",
       "price": 4.9,
       "progress": -81.8,
-      "predicted_tonight": -82.0,
-      "per_hour": -0.42
+      "predicted_tonight": -81.9,
+      "per_hour": -0.43
     },
     {
       "id": 621,
