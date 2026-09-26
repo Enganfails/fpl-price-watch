@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T22:09:29.160778+00:00",
+  "updated_at": "2026-09-26T22:25:00.465199+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -21,7 +21,7 @@
       "price": 6.1,
       "progress": 93.0,
       "predicted_tonight": 93.1,
-      "per_hour": 0.1
+      "per_hour": 0.14
     },
     {
       "id": 8,
@@ -40,8 +40,8 @@
       "position": "MID",
       "price": 9.5,
       "progress": 85.6,
-      "predicted_tonight": 85.6,
-      "per_hour": 0.0
+      "predicted_tonight": 85.7,
+      "per_hour": 0.14
     },
     {
       "id": 124,
@@ -131,8 +131,8 @@
       "team": "Man Utd",
       "position": "MID",
       "price": 5.8,
-      "progress": -97.6,
-      "predicted_tonight": -97.6,
+      "progress": -97.5,
+      "predicted_tonight": -97.5,
       "per_hour": 0.0
     },
     {
@@ -151,9 +151,9 @@
       "team": "Liverpool",
       "position": "DEF",
       "price": 5.4,
-      "progress": -96.7,
+      "progress": -96.8,
       "predicted_tonight": -96.8,
-      "per_hour": -0.1
+      "per_hour": 0.0
     },
     {
       "id": 34,
@@ -162,8 +162,8 @@
       "position": "DEF",
       "price": 4.5,
       "progress": -96.2,
-      "predicted_tonight": -96.2,
-      "per_hour": 0.0
+      "predicted_tonight": -96.3,
+      "per_hour": -0.14
     },
     {
       "id": 193,
@@ -223,7 +223,7 @@
       "price": 4.9,
       "progress": -92.0,
       "predicted_tonight": -92.1,
-      "per_hour": -0.1
+      "per_hour": -0.14
     },
     {
       "id": 180,
@@ -252,8 +252,8 @@
       "position": "DEF",
       "price": 5.0,
       "progress": -91.6,
-      "predicted_tonight": -91.7,
-      "per_hour": -0.1
+      "predicted_tonight": -91.6,
+      "per_hour": 0.0
     },
     {
       "id": 368,
@@ -386,16 +386,6 @@
       "per_hour": 0.0
     },
     {
-      "id": 587,
-      "name": "Rulli",
-      "team": "Man City",
-      "position": "GK",
-      "price": 5.0,
-      "progress": -85.5,
-      "predicted_tonight": -85.5,
-      "per_hour": 0.0
-    },
-    {
       "id": 245,
       "name": "Dibling",
       "team": "Everton",
@@ -404,6 +394,16 @@
       "progress": -85.4,
       "predicted_tonight": -85.4,
       "per_hour": 0.0
+    },
+    {
+      "id": 587,
+      "name": "Rulli",
+      "team": "Man City",
+      "position": "GK",
+      "price": 5.0,
+      "progress": -85.5,
+      "predicted_tonight": -85.2,
+      "per_hour": 0.43
     },
     {
       "id": 456,
@@ -471,8 +471,8 @@
       "team": "Liverpool",
       "position": "MID",
       "price": 4.9,
-      "progress": -81.7,
-      "predicted_tonight": -81.7,
+      "progress": -81.8,
+      "predicted_tonight": -81.8,
       "per_hour": 0.0
     },
     {
@@ -493,7 +493,7 @@
       "price": 5.4,
       "progress": -80.6,
       "predicted_tonight": -80.7,
-      "per_hour": -0.1
+      "per_hour": -0.14
     },
     {
       "id": 521,
@@ -502,8 +502,8 @@
       "position": "MID",
       "price": 6.5,
       "progress": -80.4,
-      "predicted_tonight": -80.1,
-      "per_hour": 0.31
+      "predicted_tonight": -80.4,
+      "per_hour": 0.0
     }
   ]
 }
