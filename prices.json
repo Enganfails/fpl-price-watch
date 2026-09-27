@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:26:09.428831+00:00",
+  "updated_at": "2026-09-27T22:41:08.233491+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -21,7 +21,7 @@
       "price": 6.1,
       "progress": 95.2,
       "predicted_tonight": 95.3,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 8,
@@ -51,7 +51,7 @@
       "price": 5.8,
       "progress": 85.6,
       "predicted_tonight": 85.7,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 268,
@@ -69,9 +69,9 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 7.7,
-      "progress": 81.7,
+      "progress": 81.8,
       "predicted_tonight": 81.8,
-      "per_hour": 0.14
+      "per_hour": 0.0
     },
     {
       "id": 316,
@@ -143,7 +143,7 @@
       "price": 5.4,
       "progress": -98.0,
       "predicted_tonight": -98.1,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 34,
@@ -151,8 +151,8 @@
       "team": "Aston Villa",
       "position": "DEF",
       "price": 4.5,
-      "progress": -97.6,
-      "predicted_tonight": -97.6,
+      "progress": -97.7,
+      "predicted_tonight": -97.7,
       "per_hour": 0.0
     },
     {
@@ -281,9 +281,9 @@
       "team": "Leeds",
       "position": "MID",
       "price": 4.9,
-      "progress": -92.1,
-      "predicted_tonight": -92.3,
-      "per_hour": -0.29
+      "progress": -92.2,
+      "predicted_tonight": -92.2,
+      "per_hour": 0.0
     },
     {
       "id": 428,
@@ -441,9 +441,9 @@
       "team": "Nott'm Forest",
       "position": "MID",
       "price": 4.5,
-      "progress": -83.7,
+      "progress": -83.8,
       "predicted_tonight": -83.8,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 621,
@@ -483,7 +483,7 @@
       "price": 5.4,
       "progress": -81.5,
       "predicted_tonight": -81.6,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 584,
