@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:39:48.221600+00:00",
+  "updated_at": "2026-09-28T22:52:52.622978+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -9,9 +9,9 @@
       "team": "Everton",
       "position": "DEF",
       "price": 6.1,
-      "progress": 97.3,
+      "progress": 97.4,
       "predicted_tonight": 97.4,
-      "per_hour": 0.21
+      "per_hour": 0.0
     },
     {
       "id": 8,
@@ -101,8 +101,8 @@
       "team": "Everton",
       "position": "MID",
       "price": 4.9,
-      "progress": -100.4,
-      "predicted_tonight": -100.4,
+      "progress": -100.5,
+      "predicted_tonight": -100.5,
       "per_hour": 0.0
     },
     {
@@ -151,9 +151,9 @@
       "team": "Arsenal",
       "position": "MID",
       "price": 5.8,
-      "progress": -98.0,
+      "progress": -98.1,
       "predicted_tonight": -98.1,
-      "per_hour": -0.21
+      "per_hour": 0.0
     },
     {
       "id": 202,
@@ -171,8 +171,8 @@
       "team": "Man Utd",
       "position": "DEF",
       "price": 4.4,
-      "progress": -98.0,
-      "predicted_tonight": -98.0,
+      "progress": -98.1,
+      "predicted_tonight": -98.1,
       "per_hour": 0.0
     },
     {
@@ -271,8 +271,8 @@
       "team": "Crystal Palace",
       "position": "MID",
       "price": 5.4,
-      "progress": -92.8,
-      "predicted_tonight": -92.8,
+      "progress": -92.9,
+      "predicted_tonight": -92.9,
       "per_hour": 0.0
     },
     {
@@ -291,9 +291,9 @@
       "team": "Man Utd",
       "position": "MID",
       "price": 7.9,
-      "progress": -92.6,
+      "progress": -92.7,
       "predicted_tonight": -92.6,
-      "per_hour": 0.0
+      "per_hour": 0.43
     },
     {
       "id": 288,
@@ -321,9 +321,9 @@
       "team": "Chelsea",
       "position": "DEF",
       "price": 5.4,
-      "progress": -91.7,
+      "progress": -91.8,
       "predicted_tonight": -91.8,
-      "per_hour": -0.21
+      "per_hour": 0.0
     },
     {
       "id": 381,
@@ -352,8 +352,8 @@
       "position": "DEF",
       "price": 4.0,
       "progress": -88.1,
-      "predicted_tonight": -88.1,
-      "per_hour": 0.0
+      "predicted_tonight": -88.2,
+      "per_hour": -0.43
     },
     {
       "id": 456,
@@ -412,8 +412,8 @@
       "position": "MID",
       "price": 4.5,
       "progress": -85.2,
-      "predicted_tonight": -85.1,
-      "per_hour": 0.21
+      "predicted_tonight": -85.2,
+      "per_hour": 0.0
     },
     {
       "id": 489,
@@ -452,8 +452,8 @@
       "position": "GK",
       "price": 4.5,
       "progress": -84.5,
-      "predicted_tonight": -84.3,
-      "per_hour": 0.42
+      "predicted_tonight": -84.4,
+      "per_hour": 0.43
     },
     {
       "id": 313,
