@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:43:35.738565+00:00",
+  "updated_at": "2026-09-29T21:56:02.741564+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -11,7 +11,7 @@
       "price": 6.1,
       "progress": 99.5,
       "predicted_tonight": 99.6,
-      "per_hour": 0.07
+      "per_hour": 0.08
     },
     {
       "id": 8,
@@ -31,7 +31,7 @@
       "price": 5.8,
       "progress": 90.0,
       "predicted_tonight": 90.1,
-      "per_hour": 0.07
+      "per_hour": 0.08
     },
     {
       "id": 12,
@@ -102,8 +102,8 @@
       "position": "DEF",
       "price": 4.5,
       "progress": -100.7,
-      "predicted_tonight": -100.7,
-      "per_hour": 0.0
+      "predicted_tonight": -100.8,
+      "per_hour": -0.08
     },
     {
       "id": 193,
@@ -132,8 +132,8 @@
       "position": "MID",
       "price": 5.8,
       "progress": -99.5,
-      "predicted_tonight": -99.6,
-      "per_hour": -0.07
+      "predicted_tonight": -99.5,
+      "per_hour": 0.0
     },
     {
       "id": 202,
@@ -173,7 +173,7 @@
       "price": 4.9,
       "progress": -95.6,
       "predicted_tonight": -95.7,
-      "per_hour": -0.07
+      "per_hour": -0.08
     },
     {
       "id": 180,
@@ -186,16 +186,6 @@
       "per_hour": 0.0
     },
     {
-      "id": 339,
-      "name": "Longstaff",
-      "team": "Leeds",
-      "position": "MID",
-      "price": 4.9,
-      "progress": -95.2,
-      "predicted_tonight": -95.3,
-      "per_hour": -0.07
-    },
-    {
       "id": 351,
       "name": "Mamardashvili",
       "team": "Liverpool",
@@ -203,6 +193,16 @@
       "price": 4.9,
       "progress": -95.3,
       "predicted_tonight": -95.3,
+      "per_hour": 0.0
+    },
+    {
+      "id": 339,
+      "name": "Longstaff",
+      "team": "Leeds",
+      "position": "MID",
+      "price": 4.9,
+      "progress": -95.2,
+      "predicted_tonight": -95.2,
       "per_hour": 0.0
     },
     {
@@ -226,6 +226,16 @@
       "per_hour": 0.0
     },
     {
+      "id": 416,
+      "name": "De Ligt",
+      "team": "Man Utd",
+      "position": "DEF",
+      "price": 5.0,
+      "progress": -94.6,
+      "predicted_tonight": -94.6,
+      "per_hour": 0.0
+    },
+    {
       "id": 406,
       "name": "Kovačić",
       "team": "Man City",
@@ -234,16 +244,6 @@
       "progress": -94.3,
       "predicted_tonight": -94.3,
       "per_hour": 0.0
-    },
-    {
-      "id": 416,
-      "name": "De Ligt",
-      "team": "Man Utd",
-      "position": "DEF",
-      "price": 5.0,
-      "progress": -94.5,
-      "predicted_tonight": -94.3,
-      "per_hour": 0.14
     },
     {
       "id": 241,
@@ -312,8 +312,8 @@
       "position": "MID",
       "price": 5.0,
       "progress": -92.7,
-      "predicted_tonight": -90.5,
-      "per_hour": 1.49
+      "predicted_tonight": -90.9,
+      "per_hour": 1.46
     },
     {
       "id": 456,
@@ -372,8 +372,8 @@
       "position": "DEF",
       "price": 8.0,
       "progress": -87.5,
-      "predicted_tonight": -87.5,
-      "per_hour": 0.0
+      "predicted_tonight": -87.6,
+      "per_hour": -0.08
     },
     {
       "id": 621,
@@ -381,8 +381,8 @@
       "team": "Man City",
       "position": "MID",
       "price": 4.5,
-      "progress": -86.7,
-      "predicted_tonight": -86.7,
+      "progress": -86.8,
+      "predicted_tonight": -86.8,
       "per_hour": 0.0
     },
     {
@@ -406,6 +406,16 @@
       "per_hour": 0.0
     },
     {
+      "id": 360,
+      "name": "Bradley",
+      "team": "Liverpool",
+      "position": "DEF",
+      "price": 5.0,
+      "progress": -85.2,
+      "predicted_tonight": -85.2,
+      "per_hour": 0.0
+    },
+    {
       "id": 375,
       "name": "Nyoni",
       "team": "Liverpool",
@@ -414,16 +424,6 @@
       "progress": -84.9,
       "predicted_tonight": -84.9,
       "per_hour": 0.0
-    },
-    {
-      "id": 360,
-      "name": "Bradley",
-      "team": "Liverpool",
-      "position": "DEF",
-      "price": 5.0,
-      "progress": -85.2,
-      "predicted_tonight": -84.7,
-      "per_hour": 0.34
     },
     {
       "id": 313,
@@ -482,8 +482,8 @@
       "position": "MID",
       "price": 5.0,
       "progress": -80.8,
-      "predicted_tonight": -80.5,
-      "per_hour": 0.2
+      "predicted_tonight": -80.8,
+      "per_hour": 0.0
     },
     {
       "id": 134,
@@ -493,7 +493,7 @@
       "price": 4.5,
       "progress": -80.1,
       "predicted_tonight": -80.2,
-      "per_hour": -0.07
+      "per_hour": -0.08
     },
     {
       "id": 429,
