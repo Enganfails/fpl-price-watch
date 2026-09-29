@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T22:28:32.928683+00:00",
+  "updated_at": "2026-09-29T22:43:53.656616+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -9,9 +9,9 @@
       "team": "Everton",
       "position": "DEF",
       "price": 6.1,
-      "progress": 99.5,
+      "progress": 99.6,
       "predicted_tonight": 99.6,
-      "per_hour": 0.14
+      "per_hour": 0.0
     },
     {
       "id": 8,
@@ -29,9 +29,9 @@
       "team": "Brighton",
       "position": "MID",
       "price": 5.8,
-      "progress": 90.0,
+      "progress": 90.1,
       "predicted_tonight": 90.1,
-      "per_hour": 0.14
+      "per_hour": 0.0
     },
     {
       "id": 12,
@@ -51,7 +51,7 @@
       "price": 5.5,
       "progress": 86.2,
       "predicted_tonight": 86.3,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 40,
@@ -59,9 +59,9 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 7.7,
-      "progress": 84.8,
+      "progress": 84.9,
       "predicted_tonight": 84.9,
-      "per_hour": 0.14
+      "per_hour": 0.0
     },
     {
       "id": 316,
@@ -196,6 +196,16 @@
       "per_hour": 0.0
     },
     {
+      "id": 368,
+      "name": "Szoboszlai",
+      "team": "Liverpool",
+      "position": "MID",
+      "price": 7.0,
+      "progress": -95.2,
+      "predicted_tonight": -95.3,
+      "per_hour": -0.21
+    },
+    {
       "id": 339,
       "name": "Longstaff",
       "team": "Leeds",
@@ -206,13 +216,13 @@
       "per_hour": 0.0
     },
     {
-      "id": 368,
-      "name": "Szoboszlai",
-      "team": "Liverpool",
-      "position": "MID",
-      "price": 7.0,
-      "progress": -95.2,
-      "predicted_tonight": -95.2,
+      "id": 419,
+      "name": "Martinez",
+      "team": "Man Utd",
+      "position": "DEF",
+      "price": 5.0,
+      "progress": -94.7,
+      "predicted_tonight": -94.7,
       "per_hour": 0.0
     },
     {
@@ -222,17 +232,7 @@
       "position": "DEF",
       "price": 5.0,
       "progress": -94.6,
-      "predicted_tonight": -94.7,
-      "per_hour": -0.14
-    },
-    {
-      "id": 419,
-      "name": "Martinez",
-      "team": "Man Utd",
-      "position": "DEF",
-      "price": 5.0,
-      "progress": -94.7,
-      "predicted_tonight": -94.7,
+      "predicted_tonight": -94.6,
       "per_hour": 0.0
     },
     {
@@ -273,7 +273,7 @@
       "price": 5.4,
       "progress": -93.4,
       "predicted_tonight": -93.5,
-      "per_hour": -0.14
+      "per_hour": -0.21
     },
     {
       "id": 428,
@@ -292,8 +292,8 @@
       "position": "MID",
       "price": 4.5,
       "progress": -93.0,
-      "predicted_tonight": -93.1,
-      "per_hour": -0.14
+      "predicted_tonight": -93.0,
+      "per_hour": 0.0
     },
     {
       "id": 550,
@@ -331,9 +331,9 @@
       "team": "Ipswich Town",
       "position": "DEF",
       "price": 4.0,
-      "progress": -89.3,
+      "progress": -89.4,
       "predicted_tonight": -89.4,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 245,
@@ -341,8 +341,8 @@
       "team": "Everton",
       "position": "MID",
       "price": 5.4,
-      "progress": -88.7,
-      "predicted_tonight": -88.7,
+      "progress": -88.8,
+      "predicted_tonight": -88.8,
       "per_hour": 0.0
     },
     {
@@ -463,7 +463,7 @@
       "price": 5.0,
       "progress": -81.5,
       "predicted_tonight": -81.4,
-      "per_hour": 0.14
+      "per_hour": 0.21
     },
     {
       "id": 396,
@@ -491,9 +491,9 @@
       "team": "Man Utd",
       "position": "MID",
       "price": 7.0,
-      "progress": -80.2,
+      "progress": -80.3,
       "predicted_tonight": -80.3,
-      "per_hour": -0.14
+      "per_hour": 0.0
     },
     {
       "id": 134,
