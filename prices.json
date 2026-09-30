@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:28:51.144954+00:00",
+  "updated_at": "2026-09-30T22:46:22.260146+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -11,7 +11,7 @@
       "price": 6.1,
       "progress": 101.5,
       "predicted_tonight": 101.6,
-      "per_hour": 0.14
+      "per_hour": 0.43
     },
     {
       "id": 8,
@@ -30,8 +30,8 @@
       "position": "MID",
       "price": 5.8,
       "progress": 91.9,
-      "predicted_tonight": 92.0,
-      "per_hour": 0.14
+      "predicted_tonight": 91.9,
+      "per_hour": 0.0
     },
     {
       "id": 12,
@@ -49,9 +49,9 @@
       "team": "Fulham",
       "position": "MID",
       "price": 5.5,
-      "progress": 87.4,
+      "progress": 87.5,
       "predicted_tonight": 87.5,
-      "per_hour": 0.14
+      "per_hour": 0.0
     },
     {
       "id": 40,
@@ -69,8 +69,8 @@
       "team": "Ipswich Town",
       "position": "FW",
       "price": 5.5,
-      "progress": 83.5,
-      "predicted_tonight": 83.5,
+      "progress": 83.6,
+      "predicted_tonight": 83.6,
       "per_hour": 0.0
     },
     {
@@ -92,8 +92,8 @@
       "position": "DEF",
       "price": 4.4,
       "progress": -101.0,
-      "predicted_tonight": -101.1,
-      "per_hour": -0.14
+      "predicted_tonight": -101.0,
+      "per_hour": 0.0
     },
     {
       "id": 17,
@@ -101,8 +101,8 @@
       "team": "Arsenal",
       "position": "MID",
       "price": 5.8,
-      "progress": -100.7,
-      "predicted_tonight": -100.7,
+      "progress": -100.8,
+      "predicted_tonight": -100.8,
       "per_hour": 0.0
     },
     {
@@ -121,8 +121,8 @@
       "team": "Man City",
       "position": "DEF",
       "price": 5.3,
-      "progress": -97.3,
-      "predicted_tonight": -97.3,
+      "progress": -97.4,
+      "predicted_tonight": -97.4,
       "per_hour": 0.0
     },
     {
@@ -281,9 +281,9 @@
       "team": "Liverpool",
       "position": "MID",
       "price": 5.0,
-      "progress": -92.8,
-      "predicted_tonight": -92.8,
-      "per_hour": 0.0
+      "progress": -93.1,
+      "predicted_tonight": -93.2,
+      "per_hour": -0.43
     },
     {
       "id": 456,
@@ -291,8 +291,8 @@
       "team": "Newcastle",
       "position": "MID",
       "price": 4.9,
-      "progress": -90.8,
-      "predicted_tonight": -90.8,
+      "progress": -90.9,
+      "predicted_tonight": -90.9,
       "per_hour": 0.0
     },
     {
@@ -301,8 +301,8 @@
       "team": "Ipswich Town",
       "position": "DEF",
       "price": 4.0,
-      "progress": -90.2,
-      "predicted_tonight": -90.2,
+      "progress": -90.3,
+      "predicted_tonight": -90.3,
       "per_hour": 0.0
     },
     {
@@ -371,8 +371,8 @@
       "team": "Man City",
       "position": "GK",
       "price": 4.5,
-      "progress": -86.2,
-      "predicted_tonight": -86.2,
+      "progress": -86.3,
+      "predicted_tonight": -86.3,
       "per_hour": 0.0
     },
     {
@@ -396,9 +396,9 @@
       "per_hour": 0.0
     },
     {
-      "id": 313,
-      "name": "Clarke",
-      "team": "Ipswich Town",
+      "id": 584,
+      "name": "Hamer",
+      "team": "Coventry City",
       "position": "MID",
       "price": 5.4,
       "progress": -84.6,
@@ -406,13 +406,13 @@
       "per_hour": 0.0
     },
     {
-      "id": 584,
-      "name": "Hamer",
-      "team": "Coventry City",
+      "id": 313,
+      "name": "Clarke",
+      "team": "Ipswich Town",
       "position": "MID",
       "price": 5.4,
-      "progress": -84.5,
-      "predicted_tonight": -84.5,
+      "progress": -84.6,
+      "predicted_tonight": -84.6,
       "per_hour": 0.0
     },
     {
@@ -441,8 +441,8 @@
       "team": "Man City",
       "position": "DEF",
       "price": 4.5,
-      "progress": -81.6,
-      "predicted_tonight": -81.6,
+      "progress": -81.7,
+      "predicted_tonight": -81.7,
       "per_hour": 0.0
     },
     {
@@ -492,8 +492,8 @@
       "position": "MID",
       "price": 6.5,
       "progress": -80.2,
-      "predicted_tonight": -80.2,
-      "per_hour": 0.0
+      "predicted_tonight": -80.3,
+      "per_hour": -0.43
     }
   ]
 }
