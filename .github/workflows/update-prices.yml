@@ -4,7 +4,16 @@ on:
   workflow_dispatch:
 
   schedule:
+    # Tett overvaaking rett foer prisendringen kl. 01:00
     - cron: "*/15 23,0 * * *"
+      timezone: "Europe/Oslo"
+
+    # Bekrefter hva som faktisk skjedde ved prisendringen
+    - cron: "30 1 * * *"
+      timezone: "Europe/Oslo"
+
+    # Gjennom dagen, saa progresjon kan foelges mens wildcard er aktivt
+    - cron: "0 8-22 * * *"
       timezone: "Europe/Oslo"
 
 permissions:
