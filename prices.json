@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:47:29.600784+00:00",
+  "updated_at": "2026-09-30T22:10:14.797662+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -11,7 +11,7 @@
       "price": 6.1,
       "progress": 101.4,
       "predicted_tonight": 101.6,
-      "per_hour": 0.16
+      "per_hour": 0.21
     },
     {
       "id": 8,
@@ -20,8 +20,8 @@
       "position": "DEF",
       "price": 5.8,
       "progress": 93.5,
-      "predicted_tonight": 93.5,
-      "per_hour": 0.0
+      "predicted_tonight": 93.6,
+      "per_hour": 0.1
     },
     {
       "id": 124,
@@ -50,8 +50,8 @@
       "position": "MID",
       "price": 5.5,
       "progress": 87.4,
-      "predicted_tonight": 87.4,
-      "per_hour": 0.0
+      "predicted_tonight": 87.5,
+      "per_hour": 0.1
     },
     {
       "id": 40,
@@ -92,8 +92,8 @@
       "position": "DEF",
       "price": 4.4,
       "progress": -101.0,
-      "predicted_tonight": -101.0,
-      "per_hour": 0.0
+      "predicted_tonight": -101.1,
+      "per_hour": -0.1
     },
     {
       "id": 17,
@@ -151,8 +151,8 @@
       "team": "Leeds",
       "position": "MID",
       "price": 4.9,
-      "progress": -96.6,
-      "predicted_tonight": -96.6,
+      "progress": -96.7,
+      "predicted_tonight": -96.7,
       "per_hour": 0.0
     },
     {
@@ -173,7 +173,7 @@
       "price": 7.0,
       "progress": -96.3,
       "predicted_tonight": -96.4,
-      "per_hour": -0.08
+      "per_hour": -0.1
     },
     {
       "id": 180,
@@ -203,7 +203,7 @@
       "price": 5.4,
       "progress": -95.3,
       "predicted_tonight": -95.4,
-      "per_hour": -0.08
+      "per_hour": -0.1
     },
     {
       "id": 406,
@@ -263,7 +263,7 @@
       "price": 7.9,
       "progress": -93.9,
       "predicted_tonight": -93.8,
-      "per_hour": 0.08
+      "per_hour": 0.1
     },
     {
       "id": 550,
@@ -351,8 +351,8 @@
       "team": "Man City",
       "position": "MID",
       "price": 4.5,
-      "progress": -87.9,
-      "predicted_tonight": -87.9,
+      "progress": -88.0,
+      "predicted_tonight": -88.0,
       "per_hour": 0.0
     },
     {
