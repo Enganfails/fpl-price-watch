@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T22:42:20.084287+00:00",
+  "updated_at": "2026-10-01T22:55:14.582246+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -51,7 +51,7 @@
       "price": 7.7,
       "progress": 87.7,
       "predicted_tonight": 87.8,
-      "per_hour": 0.21
+      "per_hour": 0.43
     },
     {
       "id": 316,
@@ -59,8 +59,8 @@
       "team": "Ipswich Town",
       "position": "FW",
       "price": 5.5,
-      "progress": 84.5,
-      "predicted_tonight": 84.5,
+      "progress": 84.6,
+      "predicted_tonight": 84.6,
       "per_hour": 0.0
     },
     {
@@ -111,8 +111,8 @@
       "team": "Leeds",
       "position": "MID",
       "price": 4.9,
-      "progress": -98.1,
-      "predicted_tonight": -98.1,
+      "progress": -98.2,
+      "predicted_tonight": -98.2,
       "per_hour": 0.0
     },
     {
@@ -186,6 +186,16 @@
       "per_hour": 0.0
     },
     {
+      "id": 142,
+      "name": "James",
+      "team": "Chelsea",
+      "position": "DEF",
+      "price": 5.4,
+      "progress": -96.3,
+      "predicted_tonight": -96.3,
+      "per_hour": 0.0
+    },
+    {
       "id": 416,
       "name": "De Ligt",
       "team": "Man Utd",
@@ -193,16 +203,6 @@
       "price": 5.0,
       "progress": -96.3,
       "predicted_tonight": -96.3,
-      "per_hour": 0.0
-    },
-    {
-      "id": 142,
-      "name": "James",
-      "team": "Chelsea",
-      "position": "DEF",
-      "price": 5.4,
-      "progress": -96.2,
-      "predicted_tonight": -96.2,
       "per_hour": 0.0
     },
     {
@@ -281,8 +281,8 @@
       "team": "Man City",
       "position": "GK",
       "price": 5.0,
-      "progress": -89.9,
-      "predicted_tonight": -89.9,
+      "progress": -90.0,
+      "predicted_tonight": -90.0,
       "per_hour": 0.0
     },
     {
@@ -303,7 +303,7 @@
       "price": 4.5,
       "progress": -89.5,
       "predicted_tonight": -89.6,
-      "per_hour": -0.21
+      "per_hour": -0.43
     },
     {
       "id": 4,
@@ -311,8 +311,8 @@
       "team": "Arsenal",
       "position": "DEF",
       "price": 8.0,
-      "progress": -89.1,
-      "predicted_tonight": -89.1,
+      "progress": -89.2,
+      "predicted_tonight": -89.2,
       "per_hour": 0.0
     },
     {
@@ -351,8 +351,8 @@
       "team": "Liverpool",
       "position": "MID",
       "price": 4.9,
-      "progress": -86.7,
-      "predicted_tonight": -86.7,
+      "progress": -86.5,
+      "predicted_tonight": -86.5,
       "per_hour": 0.0
     },
     {
@@ -431,8 +431,8 @@
       "team": "Brighton",
       "position": "MID",
       "price": 4.5,
-      "progress": -82.1,
-      "predicted_tonight": -82.1,
+      "progress": -82.2,
+      "predicted_tonight": -82.2,
       "per_hour": 0.0
     },
     {
