@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T21:46:30.715090+00:00",
+  "updated_at": "2026-10-01T22:09:14.092423+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -21,7 +21,7 @@
       "price": 5.8,
       "progress": 94.0,
       "predicted_tonight": 94.1,
-      "per_hour": 0.08
+      "per_hour": 0.1
     },
     {
       "id": 12,
@@ -31,7 +31,7 @@
       "price": 9.5,
       "progress": 91.9,
       "predicted_tonight": 92.0,
-      "per_hour": 0.08
+      "per_hour": 0.1
     },
     {
       "id": 268,
@@ -83,7 +83,7 @@
       "price": 5.3,
       "progress": -98.5,
       "predicted_tonight": -98.6,
-      "per_hour": -0.08
+      "per_hour": -0.1
     },
     {
       "id": 198,
@@ -101,9 +101,9 @@
       "team": "Nott'm Forest",
       "position": "MID",
       "price": 4.9,
-      "progress": -98.2,
+      "progress": -98.3,
       "predicted_tonight": -98.3,
-      "per_hour": -0.08
+      "per_hour": 0.0
     },
     {
       "id": 339,
@@ -133,7 +133,7 @@
       "price": 7.0,
       "progress": -97.6,
       "predicted_tonight": -97.7,
-      "per_hour": -0.08
+      "per_hour": -0.1
     },
     {
       "id": 180,
@@ -141,8 +141,8 @@
       "team": "Coventry City",
       "position": "DEF",
       "price": 4.0,
-      "progress": -97.3,
-      "predicted_tonight": -97.3,
+      "progress": -97.4,
+      "predicted_tonight": -97.4,
       "per_hour": 0.0
     },
     {
@@ -222,8 +222,8 @@
       "position": "MID",
       "price": 4.5,
       "progress": -95.0,
-      "predicted_tonight": -95.2,
-      "per_hour": -0.16
+      "predicted_tonight": -95.1,
+      "per_hour": -0.1
     },
     {
       "id": 428,
@@ -242,8 +242,8 @@
       "position": "MID",
       "price": 5.0,
       "progress": -92.7,
-      "predicted_tonight": -92.3,
-      "per_hour": 0.33
+      "predicted_tonight": -92.7,
+      "per_hour": 0.0
     },
     {
       "id": 456,
@@ -261,8 +261,8 @@
       "team": "Ipswich Town",
       "position": "DEF",
       "price": 4.0,
-      "progress": -91.2,
-      "predicted_tonight": -91.2,
+      "progress": -91.3,
+      "predicted_tonight": -91.3,
       "per_hour": 0.0
     },
     {
@@ -271,8 +271,8 @@
       "team": "Everton",
       "position": "MID",
       "price": 5.4,
-      "progress": -90.7,
-      "predicted_tonight": -90.7,
+      "progress": -90.8,
+      "predicted_tonight": -90.8,
       "per_hour": 0.0
     },
     {
@@ -321,9 +321,9 @@
       "team": "Nott'm Forest",
       "position": "MID",
       "price": 4.5,
-      "progress": -88.4,
+      "progress": -88.5,
       "predicted_tonight": -88.5,
-      "per_hour": -0.08
+      "per_hour": 0.0
     },
     {
       "id": 386,
@@ -411,8 +411,8 @@
       "team": "Sunderland",
       "position": "DEF",
       "price": 5.0,
-      "progress": -82.3,
-      "predicted_tonight": -82.3,
+      "progress": -82.4,
+      "predicted_tonight": -82.4,
       "per_hour": 0.0
     },
     {
@@ -421,8 +421,8 @@
       "team": "Coventry City",
       "position": "MID",
       "price": 5.4,
-      "progress": -82.2,
-      "predicted_tonight": -82.2,
+      "progress": -82.3,
+      "predicted_tonight": -82.3,
       "per_hour": 0.0
     },
     {
