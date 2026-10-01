@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T22:09:14.092423+00:00",
+  "updated_at": "2026-10-01T22:26:08.595425+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -21,7 +21,7 @@
       "price": 5.8,
       "progress": 94.0,
       "predicted_tonight": 94.1,
-      "per_hour": 0.1
+      "per_hour": 0.14
     },
     {
       "id": 12,
@@ -31,7 +31,7 @@
       "price": 9.5,
       "progress": 91.9,
       "predicted_tonight": 92.0,
-      "per_hour": 0.1
+      "per_hour": 0.14
     },
     {
       "id": 268,
@@ -69,9 +69,9 @@
       "team": "Sunderland",
       "position": "FW",
       "price": 5.7,
-      "progress": 81.3,
+      "progress": 81.4,
       "predicted_tonight": 81.3,
-      "per_hour": 0.0
+      "per_hour": -0.14
     }
   ],
   "fallers": [
@@ -81,9 +81,9 @@
       "team": "Man City",
       "position": "DEF",
       "price": 5.3,
-      "progress": -98.5,
+      "progress": -98.6,
       "predicted_tonight": -98.6,
-      "per_hour": -0.1
+      "per_hour": 0.0
     },
     {
       "id": 198,
@@ -131,9 +131,9 @@
       "team": "Liverpool",
       "position": "MID",
       "price": 7.0,
-      "progress": -97.6,
+      "progress": -97.7,
       "predicted_tonight": -97.7,
-      "per_hour": -0.1
+      "per_hour": 0.0
     },
     {
       "id": 180,
@@ -161,8 +161,8 @@
       "team": "Crystal Palace",
       "position": "MID",
       "price": 5.4,
-      "progress": -96.6,
-      "predicted_tonight": -96.6,
+      "progress": -96.7,
+      "predicted_tonight": -96.7,
       "per_hour": 0.0
     },
     {
@@ -221,9 +221,9 @@
       "team": "Crystal Palace",
       "position": "MID",
       "price": 4.5,
-      "progress": -95.0,
-      "predicted_tonight": -95.1,
-      "per_hour": -0.1
+      "progress": -94.9,
+      "predicted_tonight": -94.9,
+      "per_hour": 0.0
     },
     {
       "id": 428,
@@ -301,8 +301,8 @@
       "team": "Man City",
       "position": "MID",
       "price": 4.5,
-      "progress": -89.4,
-      "predicted_tonight": -89.4,
+      "progress": -89.5,
+      "predicted_tonight": -89.5,
       "per_hour": 0.0
     },
     {
@@ -396,21 +396,21 @@
       "per_hour": 0.0
     },
     {
-      "id": 396,
-      "name": "Vitor Reis",
-      "team": "Man City",
-      "position": "DEF",
-      "price": 4.5,
-      "progress": -82.4,
-      "predicted_tonight": -82.4,
-      "per_hour": 0.0
-    },
-    {
       "id": 501,
       "name": "Danso",
       "team": "Sunderland",
       "position": "DEF",
       "price": 5.0,
+      "progress": -82.4,
+      "predicted_tonight": -82.5,
+      "per_hour": -0.14
+    },
+    {
+      "id": 396,
+      "name": "Vitor Reis",
+      "team": "Man City",
+      "position": "DEF",
+      "price": 4.5,
       "progress": -82.4,
       "predicted_tonight": -82.4,
       "per_hour": 0.0
@@ -451,8 +451,8 @@
       "team": "Brentford",
       "position": "DEF",
       "price": 4.9,
-      "progress": -81.0,
-      "predicted_tonight": -81.0,
+      "progress": -81.1,
+      "predicted_tonight": -81.1,
       "per_hour": 0.0
     },
     {
