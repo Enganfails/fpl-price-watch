@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T02:46:09.082189+00:00",
+  "updated_at": "2026-10-04T03:00:24.468841+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -20,8 +20,8 @@
       "position": "MID",
       "price": 9.5,
       "progress": 97.0,
-      "predicted_tonight": 97.4,
-      "per_hour": 0.02
+      "predicted_tonight": 97.3,
+      "per_hour": 0.01
     },
     {
       "id": 268,
@@ -39,7 +39,7 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 7.7,
-      "progress": 92.7,
+      "progress": 92.8,
       "predicted_tonight": 93.0,
       "per_hour": 0.01
     },
@@ -60,7 +60,7 @@
       "position": "FW",
       "price": 5.7,
       "progress": 83.7,
-      "predicted_tonight": 83.8,
+      "predicted_tonight": 83.7,
       "per_hour": 0.0
     },
     {
@@ -70,7 +70,7 @@
       "position": "DEF",
       "price": 5.7,
       "progress": 83.1,
-      "predicted_tonight": 83.1,
+      "predicted_tonight": 83.2,
       "per_hour": 0.0
     },
     {
@@ -101,8 +101,8 @@
       "team": "Crystal Palace",
       "position": "MID",
       "price": 4.5,
-      "progress": -98.7,
-      "predicted_tonight": -98.7,
+      "progress": -98.8,
+      "predicted_tonight": -98.8,
       "per_hour": 0.0
     },
     {
@@ -216,6 +216,16 @@
       "per_hour": 0.0
     },
     {
+      "id": 313,
+      "name": "Clarke",
+      "team": "Ipswich Town",
+      "position": "MID",
+      "price": 5.4,
+      "progress": -89.4,
+      "predicted_tonight": -91.3,
+      "per_hour": -0.09
+    },
+    {
       "id": 375,
       "name": "Nyoni",
       "team": "Liverpool",
@@ -233,16 +243,6 @@
       "price": 5.0,
       "progress": -89.6,
       "predicted_tonight": -89.6,
-      "per_hour": 0.0
-    },
-    {
-      "id": 313,
-      "name": "Clarke",
-      "team": "Ipswich Town",
-      "position": "MID",
-      "price": 5.4,
-      "progress": -89.4,
-      "predicted_tonight": -89.4,
       "per_hour": 0.0
     },
     {
@@ -272,7 +272,7 @@
       "position": "MID",
       "price": 7.0,
       "progress": -87.7,
-      "predicted_tonight": -87.9,
+      "predicted_tonight": -88.0,
       "per_hour": -0.01
     },
     {
@@ -412,8 +412,8 @@
       "position": "DEF",
       "price": 4.9,
       "progress": -80.2,
-      "predicted_tonight": -80.2,
-      "per_hour": 0.0
+      "predicted_tonight": -80.5,
+      "per_hour": -0.01
     }
   ]
 }
