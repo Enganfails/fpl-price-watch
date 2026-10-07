@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T21:10:15.536718+00:00",
+  "updated_at": "2026-10-07T21:29:57.568996+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -9,9 +9,9 @@
       "team": "Ipswich Town",
       "position": "FW",
       "price": 5.5,
-      "progress": 93.7,
+      "progress": 93.8,
       "predicted_tonight": 93.8,
-      "per_hour": 0.05
+      "per_hour": 0.0
     },
     {
       "id": 391,
@@ -21,7 +21,7 @@
       "price": 5.7,
       "progress": 88.1,
       "predicted_tonight": 88.2,
-      "per_hour": 0.05
+      "per_hour": 0.06
     },
     {
       "id": 552,
@@ -31,7 +31,7 @@
       "price": 5.7,
       "progress": 85.1,
       "predicted_tonight": 85.0,
-      "per_hour": -0.05
+      "per_hour": -0.06
     },
     {
       "id": 98,
@@ -51,7 +51,7 @@
       "price": 4.0,
       "progress": 80.6,
       "predicted_tonight": 80.7,
-      "per_hour": 0.05
+      "per_hour": 0.06
     }
   ],
   "fallers": [
@@ -62,8 +62,8 @@
       "position": "MID",
       "price": 4.5,
       "progress": -102.1,
-      "predicted_tonight": -102.4,
-      "per_hour": -0.15
+      "predicted_tonight": -102.1,
+      "per_hour": 0.0
     },
     {
       "id": 306,
@@ -73,7 +73,7 @@
       "price": 4.0,
       "progress": -101.0,
       "predicted_tonight": -101.1,
-      "per_hour": -0.05
+      "per_hour": -0.06
     },
     {
       "id": 489,
@@ -82,8 +82,18 @@
       "position": "MID",
       "price": 4.5,
       "progress": -99.2,
-      "predicted_tonight": -99.4,
-      "per_hour": -0.1
+      "predicted_tonight": -99.3,
+      "per_hour": -0.06
+    },
+    {
+      "id": 245,
+      "name": "Dibling",
+      "team": "Everton",
+      "position": "MID",
+      "price": 5.4,
+      "progress": -98.4,
+      "predicted_tonight": -98.9,
+      "per_hour": -0.29
     },
     {
       "id": 207,
@@ -92,8 +102,8 @@
       "position": "DEF",
       "price": 4.4,
       "progress": -98.2,
-      "predicted_tonight": -99.0,
-      "per_hour": -0.4
+      "predicted_tonight": -98.7,
+      "per_hour": -0.29
     },
     {
       "id": 550,
@@ -106,14 +116,14 @@
       "per_hour": 0.0
     },
     {
-      "id": 245,
-      "name": "Dibling",
-      "team": "Everton",
+      "id": 429,
+      "name": "Rashford",
+      "team": "Man Utd",
       "position": "MID",
-      "price": 5.4,
-      "progress": -98.4,
-      "predicted_tonight": -98.4,
-      "per_hour": 0.0
+      "price": 7.0,
+      "progress": -97.6,
+      "predicted_tonight": -97.9,
+      "per_hour": -0.18
     },
     {
       "id": 428,
@@ -123,17 +133,7 @@
       "price": 7.9,
       "progress": -97.9,
       "predicted_tonight": -97.8,
-      "per_hour": 0.05
-    },
-    {
-      "id": 429,
-      "name": "Rashford",
-      "team": "Man Utd",
-      "position": "MID",
-      "price": 7.0,
-      "progress": -97.6,
-      "predicted_tonight": -97.8,
-      "per_hour": -0.1
+      "per_hour": 0.06
     },
     {
       "id": 381,
@@ -142,8 +142,8 @@
       "position": "MID",
       "price": 5.0,
       "progress": -96.5,
-      "predicted_tonight": -96.5,
-      "per_hour": 0.0
+      "predicted_tonight": -97.0,
+      "per_hour": -0.29
     },
     {
       "id": 4,
@@ -156,6 +156,16 @@
       "per_hour": 0.0
     },
     {
+      "id": 584,
+      "name": "Hamer",
+      "team": "Coventry City",
+      "position": "MID",
+      "price": 5.4,
+      "progress": -95.7,
+      "predicted_tonight": -96.0,
+      "per_hour": -0.18
+    },
+    {
       "id": 587,
       "name": "Rulli",
       "team": "Man City",
@@ -164,16 +174,6 @@
       "progress": -96.0,
       "predicted_tonight": -96.0,
       "per_hour": 0.0
-    },
-    {
-      "id": 584,
-      "name": "Hamer",
-      "team": "Coventry City",
-      "position": "MID",
-      "price": 5.4,
-      "progress": -95.6,
-      "predicted_tonight": -95.8,
-      "per_hour": -0.1
     },
     {
       "id": 375,
@@ -252,8 +252,8 @@
       "position": "MID",
       "price": 4.5,
       "progress": -90.6,
-      "predicted_tonight": -90.7,
-      "per_hour": -0.05
+      "predicted_tonight": -90.6,
+      "per_hour": 0.0
     },
     {
       "id": 85,
@@ -266,16 +266,6 @@
       "per_hour": 0.0
     },
     {
-      "id": 589,
-      "name": "Gourna-Douath",
-      "team": "Hull City",
-      "position": "MID",
-      "price": 5.0,
-      "progress": -87.6,
-      "predicted_tonight": -88.4,
-      "per_hour": -0.4
-    },
-    {
       "id": 547,
       "name": "Mundle",
       "team": "Sunderland",
@@ -284,6 +274,16 @@
       "progress": -88.4,
       "predicted_tonight": -88.4,
       "per_hour": 0.0
+    },
+    {
+      "id": 589,
+      "name": "Gourna-Douath",
+      "team": "Hull City",
+      "position": "MID",
+      "price": 5.0,
+      "progress": -87.7,
+      "predicted_tonight": -88.3,
+      "per_hour": -0.35
     },
     {
       "id": 50,
@@ -323,7 +323,7 @@
       "price": 5.5,
       "progress": -85.1,
       "predicted_tonight": -85.2,
-      "per_hour": -0.05
+      "per_hour": -0.06
     },
     {
       "id": 501,
@@ -331,9 +331,9 @@
       "team": "Sunderland",
       "position": "DEF",
       "price": 5.0,
-      "progress": -85.2,
-      "predicted_tonight": -85.0,
-      "per_hour": 0.1
+      "progress": -85.1,
+      "predicted_tonight": -84.7,
+      "per_hour": 0.24
     },
     {
       "id": 417,
@@ -342,8 +342,8 @@
       "position": "DEF",
       "price": 4.9,
       "progress": -84.4,
-      "predicted_tonight": -84.4,
-      "per_hour": 0.0
+      "predicted_tonight": -84.5,
+      "per_hour": -0.06
     },
     {
       "id": 179,
@@ -372,18 +372,8 @@
       "position": "DEF",
       "price": 4.0,
       "progress": -83.7,
-      "predicted_tonight": -83.7,
-      "per_hour": 0.0
-    },
-    {
-      "id": 545,
-      "name": "Sadiki",
-      "team": "Sunderland",
-      "position": "MID",
-      "price": 4.9,
-      "progress": -83.5,
-      "predicted_tonight": -83.7,
-      "per_hour": -0.1
+      "predicted_tonight": -83.8,
+      "per_hour": -0.06
     },
     {
       "id": 643,
@@ -393,7 +383,17 @@
       "price": 4.5,
       "progress": -83.3,
       "predicted_tonight": -83.6,
-      "per_hour": -0.15
+      "per_hour": -0.18
+    },
+    {
+      "id": 545,
+      "name": "Sadiki",
+      "team": "Sunderland",
+      "position": "MID",
+      "price": 4.9,
+      "progress": -83.5,
+      "predicted_tonight": -83.6,
+      "per_hour": -0.06
     },
     {
       "id": 78,
@@ -442,8 +442,8 @@
       "position": "GK",
       "price": 4.5,
       "progress": -80.8,
-      "predicted_tonight": -80.8,
-      "per_hour": 0.0
+      "predicted_tonight": -80.6,
+      "per_hour": 0.12
     }
   ]
 }
