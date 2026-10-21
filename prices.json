@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:22:25.690260+00:00",
+  "updated_at": "2026-10-21T21:59:21.474463+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -9,9 +9,9 @@
       "team": "Leeds",
       "position": "FW",
       "price": 6.0,
-      "progress": 99.0,
-      "predicted_tonight": 100.9,
-      "per_hour": 1.12
+      "progress": 99.6,
+      "predicted_tonight": 101.4,
+      "per_hour": 1.46
     },
     {
       "id": 305,
@@ -21,7 +21,7 @@
       "price": 4.0,
       "progress": 89.1,
       "predicted_tonight": 89.0,
-      "per_hour": -0.06
+      "per_hour": -0.08
     },
     {
       "id": 156,
@@ -29,9 +29,9 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 6.5,
-      "progress": 81.6,
-      "predicted_tonight": 82.8,
-      "per_hour": 0.71
+      "progress": 81.9,
+      "predicted_tonight": 82.7,
+      "per_hour": 0.65
     },
     {
       "id": 282,
@@ -41,7 +41,7 @@
       "price": 4.0,
       "progress": 81.1,
       "predicted_tonight": 81.0,
-      "per_hour": -0.06
+      "per_hour": -0.08
     }
   ],
   "fallers": [
@@ -52,8 +52,8 @@
       "position": "MID",
       "price": 5.4,
       "progress": -102.7,
-      "predicted_tonight": -102.9,
-      "per_hour": -0.12
+      "predicted_tonight": -102.7,
+      "per_hour": 0.0
     },
     {
       "id": 338,
@@ -61,7 +61,7 @@
       "team": "Leeds",
       "position": "MID",
       "price": 5.4,
-      "progress": -99.1,
+      "progress": -99.2,
       "predicted_tonight": -99.5,
       "per_hour": -0.24
     },
@@ -71,7 +71,7 @@
       "team": "Man Utd",
       "position": "DEF",
       "price": 4.8,
-      "progress": -98.6,
+      "progress": -98.7,
       "predicted_tonight": -99.0,
       "per_hour": -0.24
     },
@@ -102,8 +102,8 @@
       "position": "MID",
       "price": 5.3,
       "progress": -96.1,
-      "predicted_tonight": -96.3,
-      "per_hour": -0.12
+      "predicted_tonight": -96.1,
+      "per_hour": 0.0
     },
     {
       "id": 20,
@@ -111,8 +111,8 @@
       "team": "Arsenal",
       "position": "MID",
       "price": 5.3,
-      "progress": -95.9,
-      "predicted_tonight": -95.9,
+      "progress": -96.0,
+      "predicted_tonight": -96.0,
       "per_hour": 0.0
     },
     {
@@ -121,8 +121,8 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 5.3,
-      "progress": -95.3,
-      "predicted_tonight": -95.3,
+      "progress": -95.6,
+      "predicted_tonight": -95.6,
       "per_hour": 0.0
     },
     {
@@ -131,9 +131,9 @@
       "team": "Chelsea",
       "position": "DEF",
       "price": 5.3,
-      "progress": -92.4,
+      "progress": -92.5,
       "predicted_tonight": -92.7,
-      "per_hour": -0.18
+      "per_hour": -0.16
     },
     {
       "id": 581,
@@ -151,9 +151,9 @@
       "team": "Spurs",
       "position": "GK",
       "price": 4.5,
-      "progress": -92.1,
-      "predicted_tonight": -92.3,
-      "per_hour": -0.12
+      "progress": -92.2,
+      "predicted_tonight": -92.4,
+      "per_hour": -0.16
     },
     {
       "id": 209,
@@ -161,9 +161,9 @@
       "team": "Everton",
       "position": "MID",
       "price": 5.9,
-      "progress": -90.8,
-      "predicted_tonight": -91.4,
-      "per_hour": -0.35
+      "progress": -91.1,
+      "predicted_tonight": -91.9,
+      "per_hour": -0.65
     },
     {
       "id": 525,
@@ -171,9 +171,9 @@
       "team": "Spurs",
       "position": "MID",
       "price": 5.7,
-      "progress": -90.4,
-      "predicted_tonight": -90.6,
-      "per_hour": -0.12
+      "progress": -90.6,
+      "predicted_tonight": -90.9,
+      "per_hour": -0.24
     },
     {
       "id": 654,
@@ -181,8 +181,8 @@
       "team": "Everton",
       "position": "MID",
       "price": 4.5,
-      "progress": -89.0,
-      "predicted_tonight": -89.0,
+      "progress": -89.1,
+      "predicted_tonight": -89.1,
       "per_hour": 0.0
     },
     {
@@ -191,9 +191,9 @@
       "team": "Sunderland",
       "position": "MID",
       "price": 4.5,
-      "progress": -88.3,
-      "predicted_tonight": -88.6,
-      "per_hour": -0.18
+      "progress": -88.2,
+      "predicted_tonight": -88.2,
+      "per_hour": 0.0
     },
     {
       "id": 601,
@@ -201,9 +201,9 @@
       "team": "Spurs",
       "position": "MID",
       "price": 4.5,
-      "progress": -87.9,
-      "predicted_tonight": -88.0,
-      "per_hour": -0.06
+      "progress": -88.0,
+      "predicted_tonight": -88.1,
+      "per_hour": -0.08
     },
     {
       "id": 564,
@@ -213,7 +213,7 @@
       "price": 4.5,
       "progress": -87.8,
       "predicted_tonight": -87.9,
-      "per_hour": -0.06
+      "per_hour": -0.08
     },
     {
       "id": 316,
@@ -221,9 +221,9 @@
       "team": "Ipswich Town",
       "position": "FW",
       "price": 5.6,
-      "progress": -86.6,
-      "predicted_tonight": -86.9,
-      "per_hour": -0.18
+      "progress": -86.7,
+      "predicted_tonight": -87.0,
+      "per_hour": -0.24
     },
     {
       "id": 88,
@@ -232,8 +232,8 @@
       "position": "DEF",
       "price": 4.6,
       "progress": -85.6,
-      "predicted_tonight": -85.6,
-      "per_hour": 0.0
+      "predicted_tonight": -85.7,
+      "per_hour": -0.08
     },
     {
       "id": 139,
@@ -252,8 +252,18 @@
       "position": "DEF",
       "price": 4.0,
       "progress": -83.3,
-      "predicted_tonight": -83.3,
-      "per_hour": 0.0
+      "predicted_tonight": -83.4,
+      "per_hour": -0.08
+    },
+    {
+      "id": 71,
+      "name": "Cook",
+      "team": "Bournemouth",
+      "position": "MID",
+      "price": 5.0,
+      "progress": -82.8,
+      "predicted_tonight": -83.0,
+      "per_hour": -0.16
     },
     {
       "id": 185,
@@ -262,8 +272,8 @@
       "position": "MID",
       "price": 4.8,
       "progress": -82.8,
-      "predicted_tonight": -83.2,
-      "per_hour": -0.24
+      "predicted_tonight": -82.8,
+      "per_hour": 0.0
     },
     {
       "id": 424,
@@ -273,17 +283,7 @@
       "price": 4.0,
       "progress": -82.9,
       "predicted_tonight": -82.8,
-      "per_hour": 0.06
-    },
-    {
-      "id": 71,
-      "name": "Cook",
-      "team": "Bournemouth",
-      "position": "MID",
-      "price": 5.0,
-      "progress": -82.7,
-      "predicted_tonight": -82.7,
-      "per_hour": 0.0
+      "per_hour": 0.08
     },
     {
       "id": 237,
@@ -313,7 +313,7 @@
       "price": 5.4,
       "progress": -80.4,
       "predicted_tonight": -80.6,
-      "per_hour": -0.12
+      "per_hour": -0.16
     },
     {
       "id": 442,
