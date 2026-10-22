@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:36:02.307951+00:00",
+  "updated_at": "2026-10-22T13:41:33.234573+00:00",
   "source": "https://fpl-price-watch.enganfails.workers.dev",
   "threshold": "80%",
   "risers": [
@@ -9,9 +9,9 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 9.7,
-      "progress": 76.8,
-      "predicted_tonight": 98.0,
-      "per_hour": 1.98
+      "progress": 78.7,
+      "predicted_tonight": 97.0,
+      "per_hour": 1.89
     },
     {
       "id": 156,
@@ -19,9 +19,9 @@
       "team": "Chelsea",
       "position": "MID",
       "price": 6.5,
-      "progress": 87.9,
-      "predicted_tonight": 95.6,
-      "per_hour": 0.72
+      "progress": 88.6,
+      "predicted_tonight": 95.5,
+      "per_hour": 0.71
     },
     {
       "id": 427,
@@ -29,9 +29,9 @@
       "team": "Man Utd",
       "position": "MID",
       "price": 7.8,
-      "progress": 83.2,
-      "predicted_tonight": 93.5,
-      "per_hour": 0.96
+      "progress": 84.0,
+      "predicted_tonight": 92.7,
+      "per_hour": 0.9
     },
     {
       "id": 305,
@@ -40,8 +40,8 @@
       "position": "DEF",
       "price": 4.0,
       "progress": 88.4,
-      "predicted_tonight": 87.8,
-      "per_hour": -0.06
+      "predicted_tonight": 87.9,
+      "per_hour": -0.05
     },
     {
       "id": 282,
@@ -49,8 +49,8 @@
       "team": "Hull City",
       "position": "DEF",
       "price": 4.0,
-      "progress": 80.6,
-      "predicted_tonight": 80.1,
+      "progress": 80.5,
+      "predicted_tonight": 80.0,
       "per_hour": -0.05
     }
   ],
@@ -61,7 +61,7 @@
       "team": "Man Utd",
       "position": "DEF",
       "price": 4.8,
-      "progress": -101.3,
+      "progress": -101.6,
       "predicted_tonight": -104.1,
       "per_hour": -0.26
     },
@@ -71,19 +71,9 @@
       "team": "Leeds",
       "position": "MID",
       "price": 5.4,
-      "progress": -101.1,
-      "predicted_tonight": -103.2,
-      "per_hour": -0.2
-    },
-    {
-      "id": 209,
-      "name": "Johnson",
-      "team": "Everton",
-      "position": "MID",
-      "price": 5.9,
-      "progress": -93.5,
-      "predicted_tonight": -99.6,
-      "per_hour": -0.57
+      "progress": -101.3,
+      "predicted_tonight": -103.4,
+      "per_hour": -0.22
     },
     {
       "id": 32,
@@ -92,8 +82,8 @@
       "position": "DEF",
       "price": 4.4,
       "progress": -98.9,
-      "predicted_tonight": -99.2,
-      "per_hour": -0.03
+      "predicted_tonight": -99.0,
+      "per_hour": -0.01
     },
     {
       "id": 363,
@@ -141,7 +131,7 @@
       "team": "Spurs",
       "position": "GK",
       "price": 4.5,
-      "progress": -93.8,
+      "progress": -94.0,
       "predicted_tonight": -96.1,
       "per_hour": -0.22
     },
@@ -151,9 +141,9 @@
       "team": "Chelsea",
       "position": "DEF",
       "price": 5.3,
-      "progress": -94.0,
+      "progress": -94.2,
       "predicted_tonight": -95.6,
-      "per_hour": -0.15
+      "per_hour": -0.14
     },
     {
       "id": 525,
@@ -161,29 +151,29 @@
       "team": "Spurs",
       "position": "MID",
       "price": 5.7,
-      "progress": -92.5,
-      "predicted_tonight": -93.8,
-      "per_hour": -0.12
+      "progress": -92.7,
+      "predicted_tonight": -95.0,
+      "per_hour": -0.24
     },
     {
-      "id": 581,
-      "name": "Diomande",
-      "team": "Nott'm Forest",
-      "position": "DEF",
-      "price": 5.4,
-      "progress": -92.5,
-      "predicted_tonight": -92.1,
-      "per_hour": 0.04
+      "id": 209,
+      "name": "Johnson",
+      "team": "Everton",
+      "position": "MID",
+      "price": 5.9,
+      "progress": -93.6,
+      "predicted_tonight": -94.4,
+      "per_hour": -0.08
     },
     {
-      "id": 316,
-      "name": "Emersonn",
+      "id": 564,
+      "name": "Scherpen",
       "team": "Ipswich Town",
-      "position": "FW",
-      "price": 5.6,
-      "progress": -89.2,
-      "predicted_tonight": -91.9,
-      "per_hour": -0.25
+      "position": "GK",
+      "price": 4.5,
+      "progress": -90.2,
+      "predicted_tonight": -93.6,
+      "per_hour": -0.35
     },
     {
       "id": 654,
@@ -191,9 +181,39 @@
       "team": "Everton",
       "position": "MID",
       "price": 4.5,
-      "progress": -89.9,
-      "predicted_tonight": -91.7,
-      "per_hour": -0.17
+      "progress": -90.1,
+      "predicted_tonight": -93.4,
+      "per_hour": -0.34
+    },
+    {
+      "id": 316,
+      "name": "Emersonn",
+      "team": "Ipswich Town",
+      "position": "FW",
+      "price": 5.6,
+      "progress": -89.4,
+      "predicted_tonight": -92.1,
+      "per_hour": -0.28
+    },
+    {
+      "id": 581,
+      "name": "Diomande",
+      "team": "Nott'm Forest",
+      "position": "DEF",
+      "price": 5.4,
+      "progress": -92.4,
+      "predicted_tonight": -91.8,
+      "per_hour": 0.06
+    },
+    {
+      "id": 601,
+      "name": "Williams-Barnett",
+      "team": "Spurs",
+      "position": "MID",
+      "price": 4.5,
+      "progress": -88.2,
+      "predicted_tonight": -90.4,
+      "per_hour": -0.23
     },
     {
       "id": 613,
@@ -202,27 +222,7 @@
       "position": "MID",
       "price": 4.5,
       "progress": -89.3,
-      "predicted_tonight": -90.8,
-      "per_hour": -0.14
-    },
-    {
-      "id": 564,
-      "name": "Scherpen",
-      "team": "Ipswich Town",
-      "position": "GK",
-      "price": 4.5,
-      "progress": -89.8,
-      "predicted_tonight": -90.5,
-      "per_hour": -0.07
-    },
-    {
-      "id": 601,
-      "name": "Williams-Barnett",
-      "team": "Spurs",
-      "position": "MID",
-      "price": 4.5,
-      "progress": -88.1,
-      "predicted_tonight": -88.1,
+      "predicted_tonight": -89.3,
       "per_hour": 0.0
     },
     {
@@ -231,8 +231,8 @@
       "team": "Brentford",
       "position": "DEF",
       "price": 4.6,
-      "progress": -86.1,
-      "predicted_tonight": -86.6,
+      "progress": -86.2,
+      "predicted_tonight": -86.7,
       "per_hour": -0.05
     },
     {
@@ -246,14 +246,34 @@
       "per_hour": 0.0
     },
     {
-      "id": 424,
-      "name": "Amass",
-      "team": "Man Utd",
+      "id": 247,
+      "name": "Hackney",
+      "team": "Everton",
+      "position": "MID",
+      "price": 5.4,
+      "progress": -82.0,
+      "predicted_tonight": -84.8,
+      "per_hour": -0.29
+    },
+    {
+      "id": 361,
+      "name": "Lucky",
+      "team": "Liverpool",
       "position": "DEF",
       "price": 4.0,
-      "progress": -83.3,
-      "predicted_tonight": -84.9,
-      "per_hour": -0.15
+      "progress": -83.2,
+      "predicted_tonight": -84.6,
+      "per_hour": -0.14
+    },
+    {
+      "id": 42,
+      "name": "Guessand",
+      "team": "Crystal Palace",
+      "position": "MID",
+      "price": 5.4,
+      "progress": -80.7,
+      "predicted_tonight": -83.3,
+      "per_hour": -0.27
     },
     {
       "id": 71,
@@ -266,24 +286,24 @@
       "per_hour": 0.0
     },
     {
-      "id": 361,
-      "name": "Lucky",
-      "team": "Liverpool",
-      "position": "DEF",
-      "price": 4.0,
-      "progress": -83.0,
-      "predicted_tonight": -83.0,
+      "id": 434,
+      "name": "J.Fletcher",
+      "team": "Man Utd",
+      "position": "MID",
+      "price": 4.9,
+      "progress": -83.1,
+      "predicted_tonight": -83.1,
       "per_hour": 0.0
     },
     {
-      "id": 247,
-      "name": "Hackney",
-      "team": "Everton",
-      "position": "MID",
-      "price": 5.4,
-      "progress": -81.8,
-      "predicted_tonight": -82.9,
-      "per_hour": -0.1
+      "id": 424,
+      "name": "Amass",
+      "team": "Man Utd",
+      "position": "DEF",
+      "price": 4.0,
+      "progress": -83.3,
+      "predicted_tonight": -82.8,
+      "per_hour": 0.05
     },
     {
       "id": 553,
@@ -291,39 +311,9 @@
       "team": "Sunderland",
       "position": "FW",
       "price": 5.5,
-      "progress": -79.0,
-      "predicted_tonight": -82.9,
-      "per_hour": -0.36
-    },
-    {
-      "id": 434,
-      "name": "J.Fletcher",
-      "team": "Man Utd",
-      "position": "MID",
-      "price": 4.9,
-      "progress": -82.3,
-      "predicted_tonight": -82.3,
-      "per_hour": 0.0
-    },
-    {
-      "id": 185,
-      "name": "Sakamoto",
-      "team": "Coventry City",
-      "position": "MID",
-      "price": 4.8,
-      "progress": -81.7,
-      "predicted_tonight": -81.7,
-      "per_hour": 0.0
-    },
-    {
-      "id": 237,
-      "name": "Ndiaye",
-      "team": "Man City",
-      "position": "MID",
-      "price": 5.8,
-      "progress": -81.2,
-      "predicted_tonight": -81.5,
-      "per_hour": -0.03
+      "progress": -79.4,
+      "predicted_tonight": -82.0,
+      "per_hour": -0.27
     },
     {
       "id": 337,
@@ -331,9 +321,19 @@
       "team": "Leeds",
       "position": "MID",
       "price": 5.3,
-      "progress": -79.8,
-      "predicted_tonight": -80.8,
-      "per_hour": -0.09
+      "progress": -79.9,
+      "predicted_tonight": -81.8,
+      "per_hour": -0.2
+    },
+    {
+      "id": 237,
+      "name": "Ndiaye",
+      "team": "Man City",
+      "position": "MID",
+      "price": 5.8,
+      "progress": -81.3,
+      "predicted_tonight": -81.7,
+      "per_hour": -0.04
     },
     {
       "id": 442,
@@ -342,28 +342,8 @@
       "position": "GK",
       "price": 4.9,
       "progress": -80.7,
-      "predicted_tonight": -80.7,
-      "per_hour": 0.0
-    },
-    {
-      "id": 42,
-      "name": "Guessand",
-      "team": "Crystal Palace",
-      "position": "MID",
-      "price": 5.4,
-      "progress": -80.4,
-      "predicted_tonight": -80.4,
-      "per_hour": 0.0
-    },
-    {
-      "id": 577,
-      "name": "Tomiyasu",
-      "team": "Crystal Palace",
-      "position": "DEF",
-      "price": 4.4,
-      "progress": -78.8,
-      "predicted_tonight": -80.2,
-      "per_hour": -0.13
+      "predicted_tonight": -80.6,
+      "per_hour": 0.01
     },
     {
       "id": 534,
@@ -371,19 +351,9 @@
       "team": "Sunderland",
       "position": "DEF",
       "price": 4.3,
-      "progress": -79.1,
-      "predicted_tonight": -80.1,
-      "per_hour": -0.09
-    },
-    {
-      "id": 285,
-      "name": "McNair",
-      "team": "Hull City",
-      "position": "DEF",
-      "price": 4.0,
-      "progress": -79.0,
+      "progress": -79.2,
       "predicted_tonight": -80.0,
-      "per_hour": -0.09
+      "per_hour": -0.08
     }
   ]
 }
